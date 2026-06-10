@@ -1,13 +1,15 @@
 /* Add CSS Styling */
 .fam{
     background-color: rgb(255, 123, 123);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .fam.cool{
     font-size: 36px;
 }
-
+/*Could have put the font size in one class and
+then attribute that class to 3 and 4 since the 
+font change was the same size.*/
 #one{
     color: rgb(0,0,255);
     font-size: 36px;
