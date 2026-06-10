@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+p{
+    background-color: rgb(255, 123, 123);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cool{
+    font-size: 36px;
+}
