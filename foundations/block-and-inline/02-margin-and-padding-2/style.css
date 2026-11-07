@@ -29,5 +29,6 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  padding: 140px;
   display: block;
 }
